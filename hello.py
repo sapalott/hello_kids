@@ -1,5 +1,3 @@
 print("Hello kids")
 print("Willkommen :-)")
-print("Zeile 3")
-print("Zeile 4")
 print("Hallo Alexander und Rosa")
